@@ -1,1 +1,1 @@
-# connectivity-data-android-client
+- Make sure correct server address is set in both TCPServer.kt and UDPServer.kt
